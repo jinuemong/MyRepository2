@@ -4,5 +4,6 @@ public class C {
 		System.out.println("This is C");
 		System.out.println("Thank!");
 		System.out.println("This is C 2nd version");
+		System.out.println("This is C 3nd version");
 	}
 }
