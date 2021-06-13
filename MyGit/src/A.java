@@ -5,6 +5,8 @@ public class A {
 		System.out.println("This is A");
 		System.out.println("This is A 2nd version");
 		new B().printB();
+		
+		new C().printC();
 	}
 
 }
